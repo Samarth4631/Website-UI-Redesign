@@ -1,0 +1,80 @@
+<svg viewBox="0 0 1000 650" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="650" fill="#EDE6D6"/>
+
+  <!-- Title -->
+  <text x="40" y="55" font-family="Georgia, serif" font-size="30" fill="#2B241C">Rosemary &amp; Rye — Mood Board</text>
+  <text x="40" y="80" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#4A2439">Grounded, tactile, warm — bread leads, chrome follows</text>
+
+  <!-- Color palette swatches -->
+  <g>
+    <rect x="40" y="110" width="130" height="130" fill="#2B241C"/>
+    <text x="40" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Ink #2B241C</text>
+
+    <rect x="185" y="110" width="130" height="130" fill="#EDE6D6" stroke="#2B241C" stroke-width="1"/>
+    <text x="185" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Flour #EDE6D6</text>
+
+    <rect x="330" y="110" width="130" height="130" fill="#4A2439"/>
+    <text x="330" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Plum #4A2439</text>
+
+    <rect x="475" y="110" width="130" height="130" fill="#71805B"/>
+    <text x="475" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Sage #71805B</text>
+
+    <rect x="620" y="110" width="130" height="130" fill="#C7972B"/>
+    <text x="620" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Mustard #C7972B</text>
+
+    <rect x="765" y="110" width="130" height="130" fill="#FBF8F2" stroke="#2B241C" stroke-width="1"/>
+    <text x="765" y="258" font-family="Helvetica" font-size="12" fill="#2B241C">Card #FBF8F2</text>
+  </g>
+
+  <!-- Typography sample -->
+  <g>
+    <line x1="40" y1="300" x2="960" y2="300" stroke="#2B241C" stroke-width="1"/>
+    <text x="40" y="360" font-family="Georgia, serif" font-size="52" fill="#2B241C">Baked fresh, daily</text>
+    <text x="40" y="390" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A2439">Fraunces (display) — used large, headlines only</text>
+
+    <text x="40" y="440" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#2B241C">Sourdough, rye, and seasonal pastries — made the way we've always made them.</text>
+    <text x="40" y="465" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#4A2439">Work Sans (body/UI) — legible at every size</text>
+  </g>
+
+  <!-- Texture / motif strip: wheat motif -->
+  <g stroke="#71805B" stroke-width="3" fill="none">
+    <line x1="40" y1="500" x2="960" y2="500"/>
+    <g transform="translate(60,510)">
+      <line x1="0" y1="0" x2="0" y2="60"/>
+      <line x1="0" y1="10" x2="-14" y2="0"/>
+      <line x1="0" y1="10" x2="14" y2="0"/>
+      <line x1="0" y1="24" x2="-14" y2="14"/>
+      <line x1="0" y1="24" x2="14" y2="14"/>
+      <line x1="0" y1="38" x2="-14" y2="28"/>
+      <line x1="0" y1="38" x2="14" y2="28"/>
+    </g>
+    <g transform="translate(140,510)">
+      <line x1="0" y1="0" x2="0" y2="60"/>
+      <line x1="0" y1="10" x2="-14" y2="0"/>
+      <line x1="0" y1="10" x2="14" y2="0"/>
+      <line x1="0" y1="24" x2="-14" y2="14"/>
+      <line x1="0" y1="24" x2="14" y2="14"/>
+      <line x1="0" y1="38" x2="-14" y2="28"/>
+      <line x1="0" y1="38" x2="14" y2="28"/>
+    </g>
+    <g transform="translate(220,510)">
+      <line x1="0" y1="0" x2="0" y2="60"/>
+      <line x1="0" y1="10" x2="-14" y2="0"/>
+      <line x1="0" y1="10" x2="14" y2="0"/>
+      <line x1="0" y1="24" x2="-14" y2="14"/>
+      <line x1="0" y1="24" x2="14" y2="14"/>
+      <line x1="0" y1="38" x2="-14" y2="28"/>
+      <line x1="0" y1="38" x2="14" y2="28"/>
+    </g>
+  </g>
+  <text x="40" y="605" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#4A2439">Wheat-stalk linework — used as a single restrained motif, not repeated decoration</text>
+
+  <!-- button samples -->
+  <g>
+    <rect x="640" y="520" width="150" height="46" rx="8" fill="#C7972B"/>
+    <text x="715" y="548" font-family="Helvetica" font-size="14" fill="#2B241C" text-anchor="middle">Order ahead</text>
+
+    <rect x="810" y="520" width="150" height="46" rx="8" fill="none" stroke="#2B241C" stroke-width="1.5"/>
+    <text x="885" y="548" font-family="Helvetica" font-size="14" fill="#2B241C" text-anchor="middle">View menu</text>
+  </g>
+</svg>
